@@ -1,0 +1,24 @@
+
+#contentDiv{
+    background-color: #E7E5DF;
+    width: 45%;
+    padding-bottom: 20px;
+    border: 2px solid #dfdcd5;
+    border-top: 5px solid #424242;
+    border-radius: 5px;
+    margin-left: 2%;
+    text-align: justify;
+    position: absolute;
+    top: 16%;
+    max-height: inherit;
+    /* height: 22%; */
+}
+#introPara{
+    letter-spacing: 1px;
+    color: #424242;
+    font-size: 20px;
+}
+h1{
+    margin: 15px;
+    margin-top: 40px;
+}
